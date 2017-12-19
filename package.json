@@ -10,6 +10,8 @@
     "event-hooks-webpack-plugin": "^1.0.0",
     "globby": "^6.1.0",
     "patternlab-node": "^2.11.0",
+    "minimist": "^1.2.0",
+    "starterkit-mustache-demo": "^4.0.2",
     "styleguidekit-assets-default": "^3.5.0",
     "styleguidekit-mustache-default": "^3.0.0",
     "webpack": "^3.10.0",
@@ -21,7 +23,7 @@
   "author": "Matt Bulfair <Matt_Bulfair@comcast.com>",
   "contributors": [
     "Rodrigo Gualberto <itzdrigz@gmail.com>",
-    "Paul Wright <paul@paintedbicycle.com>" 
+    "Paul Wright <paul@paintedbicycle.com>"
   ],
   "scripts": {
     "start": "yarn patternlab:serve",
